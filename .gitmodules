@@ -1,0 +1,24 @@
+[submodule "ruby-on-rails.tmbundle"]
+	path = ruby-on-rails.tmbundle
+	url = git://github.com/drnic/ruby-on-rails-tmbundle.git
+[submodule "rspec.tmbundle"]
+	path = rspec.tmbundle
+	url = git://github.com/dchelimsky/rspec-tmbundle.git
+[submodule "cucumber.tmbundle"]
+	path = cucumber.tmbundle
+	url = git://github.com/bmabey/cucumber-tmbundle.git
+[submodule "sass.tmbundle"]
+	path = sass.tmbundle
+	url = git://github.com/seaofclouds/sass-textmate-bundle.git
+[submodule "ruby-haml.tmbundle"]
+	path = ruby-haml.tmbundle
+	url = git://github.com/benhoskings/ruby-haml.tmbundle.git
+[submodule "git.tmbundle"]
+	path = git.tmbundle
+	url = git://github.com/jcf/git-tmbundle.git
+[submodule "ruby-shoulda.tmbundle"]
+	path = ruby-shoulda.tmbundle
+	url = git://github.com/drnic/ruby-shoulda-tmbundle.git
+[submodule "thor.tmbundle"]
+	path = thor.tmbundle
+	url = git://github.com/mkhl/thor.tmbundle.git
