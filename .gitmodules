@@ -22,3 +22,6 @@
 [submodule "thor.tmbundle"]
 	path = thor.tmbundle
 	url = git://github.com/mkhl/thor.tmbundle.git
+[submodule "Snippets.tmbundle"]
+	path = Snippets.tmbundle
+	url = git://github.com/snippets/Snippets-tmbundle.git
