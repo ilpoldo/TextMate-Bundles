@@ -25,3 +25,6 @@
 [submodule "Snippets.tmbundle"]
 	path = Snippets.tmbundle
 	url = git://github.com/snippets/Snippets-tmbundle.git
+[submodule "RDoc.tmbundle"]
+	path = RDoc.tmbundle
+	url = git://github.com/joshaven/RDoc.tmbundle.git
