@@ -28,3 +28,6 @@
 [submodule "RDoc.tmbundle"]
 	path = RDoc.tmbundle
 	url = git://github.com/joshaven/RDoc.tmbundle.git
+[submodule "Source.tmbundle"]
+	path = Source.tmbundle
+	url = git://github.com/textmate/source.tmbundle.git
