@@ -40,3 +40,6 @@
 [submodule "compass-blueprint.tmbundle"]
 	path = compass-blueprint.tmbundle
 	url = git://github.com/grimen/compass_blueprint_tmbundle.git
+[submodule "css.tmbundle"]
+	path = css.tmbundle
+	url = git://github.com/subtleGradient/css.tmbundle.git
