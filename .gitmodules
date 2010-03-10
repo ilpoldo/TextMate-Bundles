@@ -37,3 +37,6 @@
 [submodule "markdown.tmbundle"]
 	path = markdown.tmbundle
 	url = git://github.com/textmate/markdown.tmbundle.git
+[submodule "compass-blueprint.tmbundle"]
+	path = compass-blueprint.tmbundle
+	url = git://github.com/grimen/compass_blueprint_tmbundle.git
