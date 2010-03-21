@@ -31,3 +31,6 @@
 [submodule "Source.tmbundle"]
 	path = Source.tmbundle
 	url = git://github.com/textmate/source.tmbundle.git
+[submodule "ruby.tmbundle"]
+	path = ruby.tmbundle
+	url = git://github.com/drnic/ruby-tmbundle.git
