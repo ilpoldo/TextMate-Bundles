@@ -34,3 +34,12 @@
 [submodule "ruby.tmbundle"]
 	path = ruby.tmbundle
 	url = git://github.com/drnic/ruby-tmbundle.git
+[submodule "markdown.tmbundle"]
+	path = markdown.tmbundle
+	url = git://github.com/textmate/markdown.tmbundle.git
+[submodule "compass-blueprint.tmbundle"]
+	path = compass-blueprint.tmbundle
+	url = git://github.com/grimen/compass_blueprint_tmbundle.git
+[submodule "css.tmbundle"]
+	path = css.tmbundle
+	url = git://github.com/subtleGradient/css.tmbundle.git
