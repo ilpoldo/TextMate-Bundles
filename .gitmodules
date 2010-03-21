@@ -43,3 +43,9 @@
 [submodule "css.tmbundle"]
 	path = css.tmbundle
 	url = git://github.com/subtleGradient/css.tmbundle.git
+[submodule "javascript-tools.tmbundle"]
+	path = javascript-tools.tmbundle
+	url = git://github.com/subtleGradient/javascript-tools.tmbundle.git
+[submodule "javascript.tmbundle"]
+	path = javascript.tmbundle
+	url = git://github.com/subtleGradient/javascript.tmbundle.git
