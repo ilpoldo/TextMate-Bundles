@@ -1,9 +1,6 @@
 [submodule "ruby-on-rails.tmbundle"]
 	path = ruby-on-rails.tmbundle
 	url = git://github.com/drnic/ruby-on-rails-tmbundle.git
-[submodule "rspec.tmbundle"]
-	path = rspec.tmbundle
-	url = git://github.com/dchelimsky/rspec-tmbundle.git
 [submodule "cucumber.tmbundle"]
 	path = cucumber.tmbundle
 	url = git://github.com/bmabey/cucumber-tmbundle.git
@@ -52,3 +49,9 @@
 [submodule "SCSS.tmbundle"]
 	path = SCSS.tmbundle
 	url = git://github.com/kuroir/SCSS.tmbundle.git
+[submodule "rspec.tmbundle"]
+	path = rspec.tmbundle
+	url = http://github.com/rspec/rspec-tmbundle.git
+[submodule "javascript-node.tmbundle"]
+	path = javascript-node.tmbundle
+	url = http://github.com/drnic/javascript-node.tmbundle.git
