@@ -55,3 +55,6 @@
 [submodule "javascript-node.tmbundle"]
 	path = javascript-node.tmbundle
 	url = http://github.com/drnic/javascript-node.tmbundle.git
+[submodule "json.tmbundle"]
+	path = json.tmbundle
+	url = https://github.com/textmate/json.tmbundle.git
