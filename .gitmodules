@@ -60,4 +60,4 @@
 	url = https://github.com/jashkenas/coffee-script-tmbundle.git
 [submodule "cucumber.tmbundle"]
 	path = cucumber.tmbundle
-	url = git://github.com/aslakhellesoy/cucumber-tmbundle.git
+	url = git://github.com/drnic/cucumber-tmbundle.git
